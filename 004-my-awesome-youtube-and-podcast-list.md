@@ -1,0 +1,37 @@
+# My Awesome YouTube and Podcast List
+
+J'adore les [Awesome Curated List](https://github.com/sindresorhus/awesome).<br />
+Suivant le même principe, voici une sélection de PodCast et chaînes YouTube francophones que j'affectionne.
+
+* [Heu?reka](https://www.youtube.com/channel/UC7sXGI8p8PvKosLWagkK9wQ)
+* [Science4All](https://www.youtube.com/channel/UC0NCbj8CxzeCGIF6sODJ-7A/videos)
+  * [La démocratie sous l'angle de la théorie des jeux](https://www.youtube.com/watch?v=fBYCoPAmpr4&list=PLtzmb84AoqRSmv5o-eFNb3i9z64IuOjdX)
+  * [L'intelligence artificielle et le machine learning](https://www.youtube.com/playlist?list=PLtzmb84AoqRTl0m1b82gVLcGU38miqdrC)
+* [Monsieur Phi](https://www.youtube.com/channel/UCqA8H22FwgBVcF3GJpp0MQw)
+  * [Qu'est-ce que la philosophie ?](https://www.youtube.com/watch?v=NUuL7g-r8GY&list=PLuL1TsvlrSnez4W6IVZ4yQlutHtmWObAJ)
+  * [Politique et société](https://www.youtube.com/watch?v=EvUZ5eToi10&list=PLuL1TsvlrSncHiPqjF5QQNH52FE2kf-jL)
+  * [Vertiges métaphysiques](https://www.youtube.com/watch?v=AtTTn7KMIys&list=PLuL1TsvlrSnddn7ddfK-eU99O5UtK640n)
+  * [Philosophie morale](https://www.youtube.com/watch?v=AZBDMN5wZ-8&list=PLuL1TsvlrSndG1xYLRsaNvSM46lOkOg2W)
+  * [Logique et épistémologie](https://www.youtube.com/watch?v=2DOYvDWZWwo&list=PLuL1TsvlrSnfFoWrxq-ai2tSWABRroQKT)
+* [ScienceEtonnante](https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA)
+* [Autodisciples](https://www.youtube.com/channel/UCDMxcev7u9Nf7KMJuyIm-BA)
+* [DirtyBiology](https://www.youtube.com/channel/UCtqICqGbPSbTN09K1_7VZ3Q)
+* [Le Réveilleur](https://www.youtube.com/channel/UC1EacOJoqsKaYxaDomTCTEQ)
+* [Hygiène Mentale](https://www.youtube.com/channel/UCMFcMhePnH4onVHt2-ItPZw)
+* [Linguisticae](https://www.youtube.com/channel/UCofQxJWd4qkqc7ZgaLkZfcw)
+* [Marketing Mania](https://www.youtube.com/channel/UCSmUdD2Dd_v5uqBuRwtEZug)
+* [Thinkerview](https://www.youtube.com/channel/UCQgWpmt02UtJkyO32HGUASQ)
+* [Startupfood](https://www.youtube.com/channel/UCYxgidQYV3WPD0eeVGOgibg)
+* [Podcast Nomade Digital](https://www.youtube.com/channel/UCkw3PxoF9qG9y9QmShVLiFw)
+* [Histony](https://www.youtube.com/channel/UCt8ctlakIflnSG0ebFps7cw)
+* [Politeia](https://www.youtube.com/channel/UCPgBAjDYc9lDt0Aui7ITnDA)
+* [Nota Bene](https://www.youtube.com/channel/UCP46_MXP_WG_auH88FnfS1A)
+* [Michael - Traverser La Frontière](https://www.youtube.com/channel/UC2LDmB7Z2cR0JFB1VW4e-lA)
+* [Thibault Neveu](https://www.youtube.com/channel/UCVso5UVvQeGAuwbksmA95iA/)
+  * [Formation au Deep Learning](https://www.youtube.com/watch?v=og5m7f1seno&list=PLpEPgC7cUJ4b1ARx8PyIQa_sdZRL2GXw5)
+  * [Tensorflow](https://www.youtube.com/watch?v=O9yl9KKKoQI&list=PLpEPgC7cUJ4YzbWZE28hBVSO9rHiVNWlf)
+  * [Apprentissage par renforcement](https://www.youtube.com/watch?v=PKNxUF9CGn8&list=PLpEPgC7cUJ4YPZlfUu0vQTwPraVKPASUa)
+* [Axiome](https://www.youtube.com/channel/UCNHFiyWgsnaSOsMtSoV_Q1A) - Format très long de conversation entre de Thibaut Giraud ([Monsieur Phi](https://www.tipeee.com/monsieurphi)) et Lê Nguyên Hoang ([Science4All](https://www.tipeee.com/science4all)), ne va pas plaire à tout le monde
+* [Mamytwink](https://www.youtube.com/user/mamytwink/videos) - Exploration
+* [Jean-Marc Jancovici](https://www.youtube.com/channel/UCNovJemYKcdKt7PDdptJZfQ)
+* [e-penser](https://www.youtube.com/channel/UCcziTK2NKeWtWQ6kB5tmQ8Q)
