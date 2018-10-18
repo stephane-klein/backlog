@@ -27,6 +27,7 @@ Suivant le même principe, voici une sélection de PodCast et chaînes YouTube f
 * [Politeia](https://www.youtube.com/channel/UCPgBAjDYc9lDt0Aui7ITnDA)
 * [Nota Bene](https://www.youtube.com/channel/UCP46_MXP_WG_auH88FnfS1A)
 * [Michael - Traverser La Frontière](https://www.youtube.com/channel/UC2LDmB7Z2cR0JFB1VW4e-lA)
+* [Nexus VI](https://www.youtube.com/channel/UC8-UThnwzBI5ApzVG4MY7VQ/videos) - Chronique spécialisée dans la Science-Fiction sous toutes ses formes (Cinéma, Littérature, Jeux Vidéo, Animés) !
 * [Thibault Neveu](https://www.youtube.com/channel/UCVso5UVvQeGAuwbksmA95iA/)
   * [Formation au Deep Learning](https://www.youtube.com/watch?v=og5m7f1seno&list=PLpEPgC7cUJ4b1ARx8PyIQa_sdZRL2GXw5)
   * [Tensorflow](https://www.youtube.com/watch?v=O9yl9KKKoQI&list=PLpEPgC7cUJ4YzbWZE28hBVSO9rHiVNWlf)
