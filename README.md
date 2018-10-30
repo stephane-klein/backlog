@@ -9,3 +9,4 @@ Articles:
 * [List pros / cons use docker-compose.yml on production](https://github.com/harobed/pros-cons-use-docker-compose-yml-on-production)
 * [Ne tonds pas de Yak!](003-ne-tonds-pas-de-yaks.md) (french)
 * [My Awesome YouTube and Podcast List](004-my-awesome-youtube-and-podcast-list.md)
+* [Utilité et contenu d'un README](005-utilite-et-contenu-d-un-README.md)
