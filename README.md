@@ -10,3 +10,7 @@ Articles:
 * [Ne tonds pas de Yak!](003-ne-tonds-pas-de-yaks.md) (french)
 * [My Awesome YouTube and Podcast List](004-my-awesome-youtube-and-podcast-list.md)
 * [Utilité et contenu d'un README](005-utilite-et-contenu-d-un-README.md) (french)
+
+List:
+
+* [Awesome list](awesome-list.md)
