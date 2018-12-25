@@ -8,10 +8,11 @@ Articles:
 * [My opinionated microservice deployment guideline](002-opinionated-microservice-deployment-guideline.md)
 * [List pros / cons use docker-compose.yml on production](https://github.com/harobed/pros-cons-use-docker-compose-yml-on-production)
 * [Ne tonds pas de Yak!](003-ne-tonds-pas-de-yaks.md) (french)
-* [My Awesome YouTube and Podcast List](004-my-awesome-youtube-and-podcast-list.md)
 * [Utilité et contenu d'un README](005-utilite-et-contenu-d-un-README.md) (french)
 * [CONTRIBUTE Skeleton file](https://github.com/harobed/CONTRIBUTE-skeleton/blob/master/CONTRIBUTE.md)
 
-List:
+Lists:
 
+* [My Awesome YouTube and Podcast List](004-my-awesome-youtube-and-podcast-list.md)
+* [Project ideas](006-project-ideas.md)
 * [Awesome list](awesome-list.md)
