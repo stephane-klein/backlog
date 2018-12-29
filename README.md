@@ -10,6 +10,7 @@ Articles:
 * [Ne tonds pas de Yak!](003-ne-tonds-pas-de-yaks.md) (french)
 * [Utilité et contenu d'un README](005-utilite-et-contenu-d-un-README.md) (french)
 * [CONTRIBUTE Skeleton file](https://github.com/harobed/CONTRIBUTE-skeleton/blob/master/CONTRIBUTE.md)
+* [Méthodes et outils de communications à l'intérieur d'une équipe](007-communication-dans-une-equipe.md) (french)
 
 Lists:
 
