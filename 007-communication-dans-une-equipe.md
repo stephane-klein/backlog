@@ -16,7 +16,7 @@ Voici l'ordre plus ou moins chronologique de l'évolution des moyens de communic
 
 Ces méthodes de communication peuvent être analysées en fonction de plusieurs critères :
 
-- quel est le niveau de convivialité du médium ?
+- quel est le niveau de convivialité et de considération du médium ?
 - est-ce un médium qui favorise ou non les digressions ?
 - est-ce un médium qui favorise l'attention des interlocuteurs ?
 - quel est son niveau de fiabilité de reception de l'information ?
@@ -31,6 +31,26 @@ Ces méthodes de communication peuvent être analysées en fonction de plusieurs
 - est-ce un médium [scalable](https://fr.wiktionary.org/wiki/scalabilit%C3%A9) ?
 
 Voyons ci-dessous ces critères de manière plus détaillé.
+
+
+### Convivialité et considération
+
+Certains médiums sont plus conviviaux que d'autres, par exemple la communication orale de face à face est ce qu'il y a de plus adapté quand une situation est tendue, qu'il est question d'annoncer de mauvaises nouvelles ou pour donner des feedbacks négatifs.
+
+La communication orale de face à face et dans une moindre mesure les vidéos conférences ont les spécificités suivantes :
+
+- ils transmettent [des informations non verbales](https://fr.wikipedia.org/wiki/Communication_non_verbale)
+- ils permettent d'accorder réellement du temps
+
+Ces deux caractéristiques augmentent le sentiment de considération des personnes.
+
+Plus un médium permet la proximité physique et d'accorder du temps à l'autre, plus il est adapté pour créer de la [confiance](https://en.wikipedia.org/wiki/The_Five_Dysfunctions_of_a_Team) et créer des liens forts dans une équipe.
+
+Il est plus facile d'avoir un sentiment de [défiance](https://academie.atilf.fr/9/consulter/d%C3%A9fiance) pour une personne à distance qu'en face à face devant un café ou autour d'un bon repas.
+
+Pour aller plus loin sur ce sujet :
+
+- à propos des feeback négatifs, extrait du Handbook de GitLab : [« Negative is 1-1 Give negative feedback in the smallest setting possible. One-on-one video calls are preferred »](https://about.gitlab.com/handbook/values/)
 
 
 ### Vitesse de communication
