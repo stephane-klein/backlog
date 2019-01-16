@@ -39,3 +39,7 @@ This is my opinionated guideline to deploy one application:
   * Test environemnt
   * If possible, one environement by branch
 * Install [Continuous delivery](https://en.wikipedia.org/wiki/Continuous_delivery) system
+
+Ressources:
+
+- [Google Cloud Production Guideline](https://medium.com/google-cloud/production-guideline-9d5d10c8f1e)
