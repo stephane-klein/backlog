@@ -10,6 +10,7 @@ Articles:
 * [Ne tonds pas de Yak!](003-ne-tonds-pas-de-yaks.md) (french)
 * [Utilité et contenu d'un README](005-utilite-et-contenu-d-un-README.md) (french)
 * [CONTRIBUTE Skeleton file](https://github.com/harobed/CONTRIBUTE-skeleton/blob/master/CONTRIBUTE.md)
+* [Comment j'utilise Slack](007-comment-j-utilise-slack.md) (french)
 
 Lists:
 
