@@ -12,6 +12,7 @@ Articles:
 * [CONTRIBUTE Skeleton file](https://github.com/harobed/CONTRIBUTE-skeleton/blob/master/CONTRIBUTE.md)
 * [Comment j'utilise Slack](007-comment-j-utilise-slack.md) (french)
 * [Mon carnet de voyage Bazel](008-carnet-voyage-bazel.md) (french)
+* [Team Workflow](009-team-workflow.md) (french)
 
 Lists:
 
