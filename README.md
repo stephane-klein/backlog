@@ -11,6 +11,7 @@ Articles:
 * [Utilité et contenu d'un README](005-utilite-et-contenu-d-un-README.md) (french)
 * [CONTRIBUTE Skeleton file](https://github.com/harobed/CONTRIBUTE-skeleton/blob/master/CONTRIBUTE.md)
 * [Comment j'utilise Slack](007-comment-j-utilise-slack.md) (french)
+* [Mon carnet de voyage Bazel](008-carnet-voyage-bazel.md) (french)
 
 Lists:
 
