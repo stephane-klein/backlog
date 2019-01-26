@@ -30,7 +30,7 @@ Pratiques :
 - être précis dans ses messages :
  	- utiliser au maximum les urls plutôt que "d'indiquer les choses". Exemples :
 		- donner l'url d'un ticket plutôt que son numéro
-		- donner l'url de l'encre au bon endroit d'une doc, plutôt que d'expliquer où dans la doc en question
+		- donner l'url de l'ancre au bon endroit d'une doc, plutôt que d'expliquer où dans la doc en question
 		- donner l'url d'un document, plutôt que d'expliquer où se trouve le document
 		- donner l'url de la conversation Slack, plutôt que de dire « c'est écrit plut haut »
 - donner des feed-back rapides :
