@@ -27,6 +27,12 @@ Pratiques :
   - créer une Merge Request dès le début, avant de commencer la moindre ligne de code
   - pusher régulièrement ses avancées en mode Work In Progress
   - faire un [git squash](https://git-scm.com/book/fr/v1/Utilitaires-Git-R%C3%A9%C3%A9crire-l-historique) à la fin ou avant de demander un code review d'étape
+  - essayer autant que possible de faire les MergeRequest/Commit atomic, c'est à dire, un commit doit résoudre une tâche dans son entièreté
+- quand on a fini une tâche :
+  - mettre à jour le ticket de la tâche avec les informations suivantes :
+    - ajouter en commentaire ou dans la description les liens vers la Merge Request ou le/les commits qui résolvent le ticket
+    - si le commit n'est pas suffisant pour comprendre ce qui a été fait, indiquer les informations supplémentaire en commentaire du ticket. Exemple : indiquer sur quel environnement le changement a été déployé, si il a été bien testé, par qui, quels sont les résulats du test
+    - ne pas oublier de demander une review ou de fermer le ticket
 - être précis dans ses messages :
  	- utiliser au maximum les urls plutôt que "d'indiquer les choses". Exemples :
 		- donner l'url d'un ticket plutôt que son numéro
