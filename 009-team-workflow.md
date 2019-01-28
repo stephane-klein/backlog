@@ -23,6 +23,10 @@ Pratiques :
 			- les inputs utiles (des urls, pièces jointes)
 			- un "rationalize" (pourquoi ces choix)
 			- la conclusion : la prise de décision, les actions concrètes
+- Quand on commence un ticket :
+  - se l'assigner
+  - le passer en status « in progress »
+  - informer qu'on commence ce ticket sur le channel de l'équipe
 - si on travaille sur du code :
   - créer une Merge Request dès le début, avant de commencer la moindre ligne de code
   - pusher régulièrement ses avancées en mode Work In Progress
