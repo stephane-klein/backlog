@@ -60,3 +60,7 @@ Pratiques :
 	- cela a l'avantage d'indiquer à vos contacts (via [une icône](https://get.slack.help/hc/fr-fr/articles/214908388-Diff%C3%A9rer-les-notifications-avec-le-mode-Ne-pas-d%C3%A9ranger)) que vous êtes en mode « ne pas déranger »
 	- les notifications sont réellement mises en attente (elles ne sont pas perdus) pendant cette période
   - cela permet de mettre plus ou moins en pratique une [Technique Pomodoro](https://fr.wikipedia.org/wiki/Technique_Pomodoro)
+
+Note complémentaire :
+
+- Prochainement, j'aimerais mettre en pratique [The 1-1 Agenda](https://about.gitlab.com/handbook/leadership/1-1/)
