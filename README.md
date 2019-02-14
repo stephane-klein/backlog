@@ -13,6 +13,7 @@ Articles:
 * [Comment j'utilise Slack](007-comment-j-utilise-slack.md) (french)
 * [Mon carnet de voyage Bazel](008-carnet-voyage-bazel.md) (french)
 * [Team Workflow](009-team-workflow.md) (french)
+* [Documentation de référence interne](010-documentation-de-reference-interne.md) (french)
 
 Lists:
 
