@@ -14,6 +14,7 @@ Articles:
 * [Mon carnet de voyage Bazel](008-carnet-voyage-bazel.md) (french)
 * [Team Workflow](009-team-workflow.md) (french)
 * [Documentation de référence interne](010-documentation-de-reference-interne.md) (french)
+* [Analyse du Handbook de GitLab](011-analyse-du-handbook-de-gitlab.md) (french)
 
 Lists:
 

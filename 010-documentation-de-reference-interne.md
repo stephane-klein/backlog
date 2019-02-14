@@ -14,6 +14,8 @@
 		- processus de recrutement
 	- ...
 
+Pour avoir example, vous pouvez consulter la page [« Que contient le handbook de GitLab ? »](011-analyse-du-handbook-de-gitlab.md).
+
 ## Qui a besoin d'une documentation de référence interne ?
 
 Ce type de documentation est très utile, même indispensable lorsqu'une structure humaine dépasse une certaine taille (> 5 personnes ?).
