@@ -22,7 +22,7 @@ Engineering Manager](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/so
 	- [Nice-to-have's](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/job-families/engineering/database-engineer/index.html.md#nice-to-haves)
 	- [Hiring Process](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/job-families/engineering/database-engineer/index.html.md#hiring-process)
 - [L'organisation des équipes, de la hiérarchie complète et précise](https://about.gitlab.com/company/team/org-chart/), il est possible de cliquer sur chaque poste pour comprendre avec précision le périmètre de chacun
-- Exemple de sujet abordé dans les pages "équipes" :
+- Exemple de sujets abordés dans les pages "équipes" :
 	- [Mission](https://about.gitlab.com/handbook/engineering/dev-backend/distribution/#mission)
 	- [Vision](https://about.gitlab.com/handbook/engineering/dev-backend/distribution/#vision)
 	- [Technology](https://about.gitlab.com/handbook/engineering/dev-backend/distribution/#technology)
