@@ -39,7 +39,7 @@ Engineering Manager](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/so
 
 ## Qui utilise et qui contribue au Handbook ?
 
-Chez GitLab, tout le monde utilise et contribue au Handbook :
+Chez GitLab, tous les employés utilisent et contribuent au Handbook :
 
 - [C-group](https://about.gitlab.com/handbook/leadership/#c-group) (CEO, CFO, ...), [E-group](https://about.gitlab.com/handbook/leadership/#e-group), [S-group](https://about.gitlab.com/handbook/leadership/#s-group)
 - [Les RH](https://gitlab.com/gitlab-com/www-gitlab-com/commits/master/source/handbook/people-operations/index.html.md)
