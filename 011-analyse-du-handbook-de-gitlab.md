@@ -5,7 +5,7 @@
 Liste des types d'informations présents dans le Handbook de GitLab (cette liste ne paraphrase pas [son sommaire](https://about.gitlab.com/handbook/)) :
 
 - [Les valeurs, l'état d'esprit des employés de GitLab](https://about.gitlab.com/handbook/values/)
-- [Règles de management et de leadship](https://about.gitlab.com/handbook/leadership/)
+- [Règles de management et de leadership](https://about.gitlab.com/handbook/leadership/)
 - Outils, procédures et bonnes pratiques, concernant :
 	- [la sécurité informatique](https://about.gitlab.com/handbook/security/)
 	- [la communication au sein de GitLab](https://about.gitlab.com/handbook/communication/) (comment et quand utiliser l'email, le chat, les viséoconférences...)
