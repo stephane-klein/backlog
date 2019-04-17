@@ -26,7 +26,7 @@ This is my opinionated guideline to deploy one application:
   * If your application store data on filesystem, you can use [BorgBackup](https://github.com/borgbackup/borg/) to backup your files.
   If you can refactor your application, I suggest you to don't save data directly on file system but use [Object storage system](https://en.wikipedia.org/wiki/Object_storage) like [Minio](https://www.minio.io/), [S3](https://en.wikipedia.org/wiki/Amazon_S3)...
 * [Sentry](https://docs.sentry.io/) up with your application to track errors
-* Docker log to centralized logging system. I suggest [Fluentd](http://fluentd.org/)/[Fluentbit](http://fluentbit.io/documentation/current/) ❤️ + [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch) ❤️ + [Kibana](https://en.wikipedia.org/wiki/Kibana) ❤️ + [Curator](https://github.com/elastic/curator)
+* Docker log to centralized logging system. I suggest [Fluentd](http://fluentd.org/)/[Fluentbit](http://fluentbit.io/documentation/current/) ❤️ + [Loki](https://grafana.com/loki) ❤️ + [Grafana](https://grafana.com/loki) ❤️
 * Monitor your servers, I suggest this stack [Prometheus](https://prometheus.io/) ❤️ + [Node exporter](https://github.com/prometheus/node_exporter) ❤️ + [Grafana](https://grafana.com/) ❤️ + [alertmanager](https://prometheus.io/docs/alerting/alertmanager/) ❤️
 * Export your app monitoring data to [Prometheus](https://prometheus.io/)
 * [Do things that don't scale](http://paulgraham.com/ds.html)
