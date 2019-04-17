@@ -9,7 +9,7 @@ This is my opinionated guideline to deploy one application:
   * [Store your app configuration in the environment variable](https://12factor.net/config)
   * [Write log messages to stdout](https://12factor.net/logs)
   * If you can don't save data directly on file system but use [Object storage system](https://en.wikipedia.org/wiki/Object_storage) like [Minio](https://www.minio.io/) ❤️, [S3](https://en.wikipedia.org/wiki/Amazon_S3)...
-  * Provide database upgrade and downgrade migration script, use tools like [migrate](https://github.com/mattes/migrate) ❤️ or [alembic](http://alembic.zzzcomputing.com/en/latest/)
+  * Provide database upgrade and downgrade migration script, use tools like [migrate](https://github.com/golang-migrate/migrate) ❤️ or [alembic](http://alembic.zzzcomputing.com/en/latest/)
   * Provide demo test data (for development environment)
   * Provide script to anonymize customer private data, like this tool [mysql-anonymize](https://github.com/davedash/mysql-anonymous)
 * Use Docker container everywhere
