@@ -20,7 +20,7 @@ This is my opinionated guideline to deploy one application:
   * Maybe use [Packer](https://www.packer.io/) to directly install pre configured OS (with Docker, [Node exporter](https://github.com/prometheus/node_exporter)…)
   * Use [Ansible](https://en.wikipedia.org/wiki/Ansible_(software)) ❤️, [Puppet](https://en.wikipedia.org/wiki/Puppet_(software)), [Salt](https://en.wikipedia.org/wiki/Salt_(software)), or [Chef](https://en.wikipedia.org/wiki/Chef_(software)) configuration management tool to install and configure your application on your infrastructure
   * Use [DnsControl](https://stackexchange.github.io/dnscontrol/), [Terraform Provider](https://www.terraform.io/docs/providers/index.html) or [Ansible Cloud Modules](http://docs.ansible.com/ansible/latest/list_of_cloud_modules.html) to manage your DNS Configuration
-  * Don't store uncrypted secrets in Git, use [GnuPG](https://en.wikipedia.org/wiki/GNU_Privacy_Guard), [git-crypt](https://www.agwa.name/projects/git-crypt/) or better, install and use [HashiCorp Vault](https://www.vaultproject.io/)
+  * Don't store uncrypted secrets in Git, use [Pass](https://www.passwordstore.org/) or better, install and use [HashiCorp Vault](https://www.vaultproject.io/)
 * Backup your application data:
   * If your application use PostgreSQL database, configure [Continuous Archiving system for Postgres](https://github.com/wal-e/wal-e)
   * If your application store data on filesystem, you can use [BorgBackup](https://github.com/borgbackup/borg/) to backup your files.
