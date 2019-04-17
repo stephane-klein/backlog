@@ -5,7 +5,7 @@
 Liste des types d'informations présents dans le Handbook de GitLab (cette liste ne paraphrase pas [son sommaire](https://about.gitlab.com/handbook/)) :
 
 - [Les valeurs, l'état d'esprit des employés de GitLab](https://about.gitlab.com/handbook/values/)
-- [Règles de management et de leadship](https://about.gitlab.com/handbook/leadership/)
+- [Règles de management et de leadership](https://about.gitlab.com/handbook/leadership/)
 - Outils, procédures et bonnes pratiques, concernant :
 	- [la sécurité informatique](https://about.gitlab.com/handbook/security/)
 	- [la communication au sein de GitLab](https://about.gitlab.com/handbook/communication/) (comment et quand utiliser l'email, le chat, les viséoconférences...)
@@ -22,7 +22,7 @@ Engineering Manager](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/so
 	- [Nice-to-have's](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/job-families/engineering/database-engineer/index.html.md#nice-to-haves)
 	- [Hiring Process](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/job-families/engineering/database-engineer/index.html.md#hiring-process)
 - [L'organisation des équipes, de la hiérarchie complète et précise](https://about.gitlab.com/company/team/org-chart/), il est possible de cliquer sur chaque poste pour comprendre avec précision le périmètre de chacun
-- Exemple de sujet abordé dans les pages "équipes" :
+- Exemple de sujets abordés dans les pages "équipes" :
 	- [Mission](https://about.gitlab.com/handbook/engineering/dev-backend/distribution/#mission)
 	- [Vision](https://about.gitlab.com/handbook/engineering/dev-backend/distribution/#vision)
 	- [Technology](https://about.gitlab.com/handbook/engineering/dev-backend/distribution/#technology)
@@ -39,7 +39,7 @@ Engineering Manager](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/so
 
 ## Qui utilise et qui contribue au Handbook ?
 
-Chez GitLab, tout le monde utilise et contribue au Handbook :
+Chez GitLab, tous les employés utilisent et contribuent au Handbook :
 
 - [C-group](https://about.gitlab.com/handbook/leadership/#c-group) (CEO, CFO, ...), [E-group](https://about.gitlab.com/handbook/leadership/#e-group), [S-group](https://about.gitlab.com/handbook/leadership/#s-group)
 - [Les RH](https://gitlab.com/gitlab-com/www-gitlab-com/commits/master/source/handbook/people-operations/index.html.md)
