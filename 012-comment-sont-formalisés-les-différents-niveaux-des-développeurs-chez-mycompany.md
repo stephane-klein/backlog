@@ -26,8 +26,8 @@
   - Est capable de prendre intégralement en charge de nouvelles fonctionnalités de petites tailles, des corrections de bugs, traiter des problématiques d'intégrations avec un minimum d'accompagnement d'un développeur sénior
   - Essaye d'améliorer la productivité de l'ensemble de l'équipe. Cela peut consister à encadrer un développeur junior, améliorer les process, la documentation, les tests ou les outils dans le but d'aider toute l'équipe à être plus efficace.
 - Qualité du code produit
-  - Améliore la qualité du code sur lequel il intervient. (Par exemple : améliore les tests en les rendants plus rapides, plus fiables, plus lisible, etc.)
-  - Essaye de réduire la complexité du code et du dans son ensemble projet
+  - Améliore la qualité du code sur lequel il intervient. (Par exemple : améliore les tests en les rendants plus rapides, plus fiables, plus lisibles, etc.)
+  - Essaye de réduire la complexité du code et du projet dans son ensemble
   - Prends l'initiative de corriger les bugs ou des régressions
   - Prends soin de l’intégralité du projet en surveillant les erreurs retournées par l'outil d’intégration continue
   - Écrit du code prêt à être mis en production avec un minimum d'aide
