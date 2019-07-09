@@ -1,10 +1,10 @@
 # Comment sont formalisés les différents niveaux des développeurs chez MyCompany ?
 
-## Développeur Frontend Junior
+## Développeur Junior
 
 - Compétences techniques
   - A besoin d'être accompagné pour écrire du code modulaire et maintenable
-  - A un peu d'expérience en HTML, CSS, Javascript, etc.
+  - A un peu d'expérience en ____, ___, ___, etc. ([lister les hard skills nécessaires pour contribuer au projet](https://github.com/kamranahmedse/developer-roadmap))
 - Qualité du code produit
   - Garde en l'état ou améliore légèrement la qualité du code sur lequel il intervient
   - A besoin d'être incité pour corriger les bugs ou les régressions
@@ -16,7 +16,7 @@
 - Performance & Scalability
   - A peu ou pas d'expérience en l'écriture d'applications performantes et scallables
 
-## Développeur Frontend de niveau intermédiaire
+## Développeur de niveau intermédiaire
 
 - Compétences techniques
   - A besoin d'être ponctuellement accompagné pour écrire du code modulaire, bien testé et maintenable
@@ -37,7 +37,7 @@
   - Réponds de manière avenante aux questions de ses collègues
   - Est proactif dans le suivi de ses issues, communique sur son état de progression, etc.
 
-## Développeur Frontend Sénior
+## Développeur Sénior
 
 - Compétences techniques
   - Écrit du code modulaire, bien testé et maintenable
