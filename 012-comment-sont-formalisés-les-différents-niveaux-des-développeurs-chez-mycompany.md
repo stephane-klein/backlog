@@ -3,7 +3,7 @@
 ## Développeur Junior
 
 - Compétences techniques :
-  - A besoin d'être accompagné pour écrire du code modulaire et maintenable
+  - A besoin d'être accompagné pour écrire du code modulaire, maintenable ([par exemple](http://matthewrocklin.com/blog/work/2019/06/23/avoid-indirection))
   - A un peu d'expérience en ____, ___, ___, etc. ([lister les hard skills nécessaires pour contribuer au projet](https://github.com/kamranahmedse/developer-roadmap))
 - Qualité du code produit :
   - Garde en l'état ou améliore légèrement la qualité du code sur lequel il intervient
@@ -19,7 +19,7 @@
 ## Développeur de niveau intermédiaire
 
 - Compétences techniques :
-  - A besoin d'être ponctuellement accompagné pour écrire du code modulaire, bien testé et maintenable
+  - A besoin d'être ponctuellement accompagné pour écrire du code modulaire, bien testé et maintenable ([par exemple](http://matthewrocklin.com/blog/work/2019/06/23/avoid-indirection)
 - Leadership :
   - Propose de nouvelles idées
   - A besoin d'être accompagné pour étudier la faisabilité et estimer le temps nécessaire à la réalisation de ses nouvelles idées
@@ -40,7 +40,7 @@
 ## Développeur Sénior
 
 - Compétences techniques :
-  - Écrit du code modulaire, bien testé et maintenable
+  - Écrit du code modulaire, bien testé et maintenable ([par exemple](http://matthewrocklin.com/blog/work/2019/06/23/avoid-indirection)
 - Leadership :
   - Propose de nouvelles idées, analyse leurs faisabilités et estime le temps nésessaire à leurs réalisation
   - Est capable de prendre en charge les nouvelles fonctionnalités complexes, les corrections de bug de manière autonome
