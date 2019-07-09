@@ -15,6 +15,7 @@ Articles:
 * [Team Workflow](009-team-workflow.md) (french)
 * [Documentation de référence interne](010-documentation-de-reference-interne.md) (french)
 * [Analyse du Handbook de GitLab](011-analyse-du-handbook-de-gitlab.md) (french)
+* [Comment sont formalisés les différents niveaux des développeurs chez MyCompany ?](012-comment-sont-formalisés-les-différents-niveaux-des-développeurs-chez-mycompany.md)
 
 Lists:
 
