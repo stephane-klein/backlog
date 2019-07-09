@@ -44,7 +44,7 @@
 - Leadership :
   - Propose de nouvelles idées, analyse leurs faisabilités et estime le temps nésessaire à leurs réalisation
   - Est capable de prendre en charge les nouvelles fonctionnalités complexes, les corrections de bug de manière autonome
-  - Doit amélirer la productivité de l'ensemble de l'équipe. Cela peut consister à encadrer un développeur junior, améliorer les process, la documentation, les tests ou les outils dans le but d'aider toute l'équipe à être plus efficace.
+  - Doit améliorer la productivité de l'ensemble de l'équipe. Cela peut consister à encadrer un développeur junior, améliorer les process, la documentation, les tests ou les outils dans le but d'aider toute l'équipe à être plus efficace.
 - Qualité du code produit :
   - Améliore la qualité du code sur lequel il intervient (par exemple : essaie de garder un code simple, améliore les tests)
   - Corrige rapidement les bugs et regressions
