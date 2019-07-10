@@ -34,7 +34,7 @@
 - Communication :
   - Donne des retours précis et au bon moment à ses collègues, prend soin de simplifier au maximum le travail des reviewers
   - Est capable de communiquer sur des sujets techniques et présenter ses idées au reste de l'équipe
-  - Répond de manière avenante aux questions de ses collègues
+  - N'hésite pas à demander de l'aide à ses collègues quand il rencontre un point bloquant
   - Est proactif dans le suivi de ses Issues, communique sur son état de progression, etc.
 - Déploiement, Performance et Scalabilité :
   - Est capable de corriger les problèmes rencontrés en production
