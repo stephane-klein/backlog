@@ -36,6 +36,11 @@
   - Est capable de communiquer sur des sujets techniques et présenter ses idées au reste de l'équipe
   - Répond de manière avenante aux questions de ses collègues
   - Est proactif dans le suivi de ses Issues, communique sur son état de progression, etc.
+- Déploiement, Performance et Scalabilité :
+  - Est capable de corriger les problèmes rencontrés en production
+- Déploiement, Performance et Scalabilité :
+  - Est capable de corriger les problèmes rencontrés en production
+
 
 ## Développeur Sénior
 
