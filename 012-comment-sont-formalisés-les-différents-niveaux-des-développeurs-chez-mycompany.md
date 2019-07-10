@@ -14,7 +14,7 @@
   - A besoin d'aide pour faire le suivi de ses Issues et Merge Request
   - Participe aux conversations techniques
 - Déploiement, Performance et Scalabilité :
-  - A peu ou pas d'expérience dans l'écriture d'applications performantes et scallables
+  - A peu ou pas d'expérience dans l'écriture d'applications performantes et scalables
 
 ## Développeur de niveau intermédiaire
 
@@ -23,7 +23,7 @@
 - Leadership :
   - Propose de nouvelles idées
   - A besoin d'être accompagné pour étudier la faisabilité et estimer le temps nécessaire à la réalisation de ses nouvelles idées
-  - Est capable de prendre intégralement en charge de nouvelles fonctionnalités de petites tailles, des corrections de bugs, traiter des problématiques d'intégrations avec un minimum d'accompagnement d'un développeur sénior
+  - Est capable de prendre intégralement en charge de nouvelles fonctionnalités de petite taille, des corrections de bugs, traiter des problématiques d'intégrations avec un minimum d'accompagnement d'un développeur sénior
   - Essaye d'améliorer la productivité de l'ensemble de l'équipe. Cela peut consister à encadrer un développeur junior, améliorer les process, la documentation, les tests ou les outils dans le but d'aider toute l'équipe à être plus efficace.
 - Qualité du code produit :
   - Améliore la qualité du code sur lequel il intervient. (Par exemple : améliore les tests en les rendants plus rapides, plus fiables, plus lisibles, etc.)
@@ -32,7 +32,7 @@
   - Prend soin de l’intégralité du projet en surveillant les erreurs retournées par l'outil d’intégration continue
   - Écrit du code prêt à être mis en production avec un minimum d'aide
 - Communication :
-  - Donne des retours précis et au bon moment à ses collègues, prend soin à simplifier au maximum le travail des reviewers
+  - Donne des retours précis et au bon moment à ses collègues, prend soin de simplifier au maximum le travail des reviewers
   - Est capable de communiquer sur des sujets techniques et présenter ses idées au reste de l'équipe
   - Répond de manière avenante aux questions de ses collègues
   - Est proactif dans le suivi de ses Issues, communique sur son état de progression, etc.
