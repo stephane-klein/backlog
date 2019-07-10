@@ -42,7 +42,7 @@
 - Compétences techniques :
   - Écrit du code modulaire, bien testé et maintenable ([par exemple](http://matthewrocklin.com/blog/work/2019/06/23/avoid-indirection)
 - Leadership :
-  - Propose de nouvelles idées, analyse leurs faisabilités et estime le temps nécessaire à leurs réalisation
+  - Propose de nouvelles idées, analyse leur faisabilité et estime le temps nécessaire à leur réalisation
   - Est capable de prendre en charge les nouvelles fonctionnalités complexes, les corrections de bug de manière autonome
   - Doit améliorer la productivité de l'ensemble de l'équipe. Cela peut consister à encadrer un développeur junior, améliorer les process, la documentation, les tests ou les outils dans le but d'aider toute l'équipe à être plus efficace.
 - Qualité du code produit :
