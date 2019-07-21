@@ -13,10 +13,11 @@ This document complete my previous [« My opinionated project deployment guideli
 
 Note:
 
-* between 2016 and 2018:
+* between 2016 and 2019:
   * I have deployed and managed one On-premises Kubernetes cluster (on baremetal servers)
   * I have depolyed and managed one microservice app on this Kubernetes cluster
   * I have depolyed and managed several monolithic apps on this Kubernetes cluster
+  * I was an member of [Scaleway](https://github.com/harobed/poc-swarm-sentry) Kubernetes As A Service development team
 
 ## Guideline
 
@@ -37,13 +38,17 @@ Then when you merge to your Git stable branch your application will be automatic
 
 **Third step**
 
+* Deploy your service with Docker Swarm, see [Sentry deployment with Swarm](https://github.com/harobed/poc-swarm-sentry) 
+
+**Fourth step**
+
 Deploy your microservice app on [Kubernetes](https://kubernetes.io/) only if:
 
 * you master the first and second steps
 * and your app need scalability
 
 
-**fourth step**
+**Fifth step**
 
 * Deploy [Envoy](https://www.envoyproxy.io/) / [Istio](https://istio.io/) on your Kubernetes Cluster
 

@@ -31,7 +31,8 @@ This is my opinionated guideline to deploy one application:
 * Export your app monitoring data to [Prometheus](https://prometheus.io/)
 * [Do things that don't scale](http://paulgraham.com/ds.html)
   * First install your application on one server or one server by service. Use simply [docker-compose](https://docs.docker.com/compose/) with [watchtower](https://github.com/v2tec/watchtower) ❤️ (You can read also my document named [« My opinionated microservice deployment guideline »](002-opinionated-microservice-deployment-guideline.md))
-  * Next, when you need to scale your service, simply migrate your Docker-compose configuration to [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) cluster
+  * Next, when you master `docker-compose` deployment, you can migrate to Docker Swarm instead Ansible, see [Sentry deployment with Swarm](https://github.com/harobed/poc-swarm-sentry)
+  * When you need to scale your service, simply migrate your Docker-compose configurations to [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) cluster
 * Provide script to execute load testing
 * [Deploy several environments](https://en.wikipedia.org/wiki/Deployment_environment):
   * Production environment
