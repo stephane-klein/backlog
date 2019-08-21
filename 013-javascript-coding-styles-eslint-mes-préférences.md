@@ -27,7 +27,9 @@ Voici un extrait de la configuration [ESLint](https://eslint.org/) que j'utilise
                 "named": "never",
                 "asyncArrow": "always"
             }
-        ]
+        ],
+        "no-trailing-spaces": "error",
+        "no-multiple-empty-lines": "error"
     }
 }
 ```
