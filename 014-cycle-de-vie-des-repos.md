@@ -62,7 +62,8 @@ Migration d'un projet « Nursery » vers « Team / Corporate » ? une simple cop
     - « Project Overview »
     - « Deployments »
   - Branche `master` et `develop` protégées
-  - Toute modification doit passer par des Merge Request et Code Review 
+  - Toute modification doit passer par des Merge Request et Code Review
+  - [Commit message de qualité](https://github.com/harobed/CONTRIBUTE-skeleton/blob/master/CONTRIBUTE.md#git-workflow)
   - GitLab-CI de configuré
   - Déploiement continue
   - Pérennité : partage du savoir, chaque partie du projet doivent être maitrisé par plusieurs personnes de l'équipe
