@@ -17,6 +17,7 @@ Articles:
 * [Analyse du Handbook de GitLab](011-analyse-du-handbook-de-gitlab.md) (french)
 * [Comment sont formalisés les différents niveaux des développeurs chez MyCompany ?](012-comment-sont-formalisés-les-différents-niveaux-des-développeurs-chez-mycompany.md) (french)
 * [Javascript Coding Style, ESLint, mes préférences](013-javascript-coding-styles-eslint-mes-préférences.md) (french)
+* [Cycle de vie des Repos Git](014-cycle-de-vie-des-repos.md)
 
 Lists:
 
