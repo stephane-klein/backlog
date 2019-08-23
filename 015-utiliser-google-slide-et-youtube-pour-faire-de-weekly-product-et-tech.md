@@ -25,6 +25,7 @@ Pendant tout le long du sprint :
     - 🔄 cycle d'itération de feedback / correction au niveau de la feature
   - Je Squash et et je Rebase de code
   - J'écris un commit message qui respecte [How to Write a Git Commit Message](https://github.com/harobed/CONTRIBUTE-skeleton/blob/master/CONTRIBUTE.md#git-workflow)
+  - Je fais une demande de Code Review
     - 🔄 cycle d'itération de feedback / correction au niveau du code
   - Je vérifie que tous ce qui est dans la checklist (qui vient du template) en description de la Merge Request est fait
   - Je fais une dernière verification avant application du Merge vers la branche `develop`
