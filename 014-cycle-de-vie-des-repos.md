@@ -40,7 +40,7 @@ Les développeurs peuvent créer librement des Repos POC.
 - Partage ?
   - Public avec le reste de l'équipe, pour rendre transparent l'avancé du projet
 
-Migration d'un projet « Nursery » vers « Team / Corporate » ? une simple copie de fichiers, l'historique Git est mis à la poubelle.
+Migration d'un projet « Nursery » vers « Team / Corporate » ? une simple copie de fichiers, l'historique Git est mis à la poubelle, création d'une Merge Request + Review Code.
 
 
 ## Les repository « Team / Corporate »
