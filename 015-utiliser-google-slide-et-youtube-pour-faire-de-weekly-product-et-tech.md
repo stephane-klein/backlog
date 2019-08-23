@@ -4,7 +4,7 @@ Présentation de l'utilisation des Google Slide et YouTube dans Workflow de dév
 
 En début de cycle de développement (Sprint d'une ou deux semaines), par exemple la semaine 34 :
 
-- Création de deux nouveaux documents Google Slide partagé :
+- Création de deux nouveaux documents Google Slide (librement accessible, partage global) :
   - « Product Weekly 34 »
   - « Tech Weekly 34 »
 
