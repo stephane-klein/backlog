@@ -20,6 +20,9 @@ Les développeurs peuvent créer librement des Repos POC.
 - Critères de qualités ?
   - README : optionnel, à écrire au fur et à mesure de la progression du projet
   - Commit message : pas important
+- Issue / Roadmap ?
+  - Pas d'utilisation de système d'issue
+  - Une roadmap items dans le README peut être pratique pour garder un fil conducteur
 - Partage ?<br />
   Même si le projet est en Work In Progress, non exploitable, ces expérimentations peuvent être utiles à d'autre développeur.   
 
@@ -39,6 +42,9 @@ Les développeurs peuvent créer librement des Repos POC.
   - Les commits peuvent se faire directement dans la branche `master`
   - Commit message : pas important
   - Un fichier README doit être présent, même si il est au départ de faible qualité
+- Issue / Roadmap ?
+  - Une roadmap items dans le README peut être pratique pour garder un fil conducteur
+  - Utilisation d'issue optionnel au bon vouloir des contributeurs
 - Partage ?
   - Public avec le reste de l'équipe, pour rendre transparent l'avancé du projet
 
@@ -55,6 +61,8 @@ Migration d'un projet « Nursery » vers « Team / Corporate » ? une simple cop
   - Et/ou dans le [monorepos](https://gomonorepo.org/) de l'équipe ou de la société
 - Niveau de maturité ?
   - Les branches `master` et `develop` doivent être sable
+- Issue / Roadmap ?
+  - [Tout doit commencer pour une issue](https://about.gitlab.com/handbook/communication/#everything-starts-with-a-merge-request)
 - Critères de qualités :
   - Documenté, présence des sections :
     - « Getting started »
