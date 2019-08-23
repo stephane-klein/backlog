@@ -2,6 +2,8 @@
 
 ## Les Repository « POC »
 
+POC : [« Preuve de concept »](https://fr.wikipedia.org/wiki/Preuve_de_concept)
+
 Les développeurs peuvent créer librement des Repos POC.
 
 - Pour quel usage ? Dans quel but ?
