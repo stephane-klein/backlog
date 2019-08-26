@@ -29,7 +29,7 @@ L'utilisation de Storybook permet au développeur :
   - switcher rapidement d'une langue à une autre (avec [l'addon-i18next](https://github.com/fynncfchen/storybook-addon-i18next#readme))
   - mocker les call d'API GraphQL (avec [l'addon apollo-storybook-react](https://github.com/abhiaiyer91/apollo-storybook-decorator))
 - au niveau des composants :
-  - d'avoir une environement pour préparer, développer ses composants
+  - d'avoir un environement pour préparer, développer ses composants
   - d'avoir la liste des composants disponible et des exemples d'utilisation
 
 Storybook est pour moi un excellent outil pour faire du développement itératif.
