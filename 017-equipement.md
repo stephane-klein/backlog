@@ -7,3 +7,5 @@
 - [Bureau Assis-Debout Poste de Travail Réglable en Hauteur pour Moniteur Ecran PC Ordinateur Portable](https://www.amazon.fr/FITUEYES-Assis-Debout-R%C3%A9glable-Ordinateur-SD208001WB/dp/B07G872V2R/)
 - [XD Design Urban Lite Sac à Dos Antivol Gris](https://www.amazon.fr/gp/product/B07BDPDL67/)
 - [Étiquettes Bépo pour clavier](https://beaujoie.com/boutique/01183/)
+- [Apple Magic Trackpad 2](https://www.amazon.fr/Apple-MJ2R2Z-A-Magic-Trackpad/dp/B016MUBL4U/)
+- [Clavier Typematrix Bépo](http://typematrix.com/bepo/)
