@@ -33,3 +33,6 @@ L'utilisation de Storybook permet au développeur :
   - d'avoir la liste des composants disponible et des exemples d'utilisation
 
 Storybook est pour moi un excellent outil pour faire du développement itératif.
+
+Pour aller plus loin : [Storybook Driven Development](https://medium.com/nulogy/storybook-driven-development-a3c517276c07)
+)
