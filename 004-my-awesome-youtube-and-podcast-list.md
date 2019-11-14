@@ -46,3 +46,4 @@ Suivant le même principe, voici une sélection de PodCast et chaînes YouTube f
 * [Jean-Marc Jancovici](https://www.youtube.com/channel/UCNovJemYKcdKt7PDdptJZfQ)
 * [e-penser](https://www.youtube.com/channel/UCcziTK2NKeWtWQ6kB5tmQ8Q)
 * [Nouvelle École](https://nouvelleecole.org/)
+* [Artisan Développeur](https://soundcloud.com/benoitgantaume)
