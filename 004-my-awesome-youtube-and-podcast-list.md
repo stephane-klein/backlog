@@ -27,6 +27,7 @@ Suivant le même principe, voici une sélection de PodCast et chaînes YouTube f
 * [DirtyBiology](https://www.youtube.com/channel/UCtqICqGbPSbTN09K1_7VZ3Q)
 * [Hygiène Mentale](https://www.youtube.com/channel/UCMFcMhePnH4onVHt2-ItPZw)
 * [Linguisticae](https://www.youtube.com/channel/UCofQxJWd4qkqc7ZgaLkZfcw)
+* [Scrum Life](https://www.youtube.com/channel/UCMCnZGIOeLVO65-LBxkkHyQ)
 * [Marketing Mania](https://www.youtube.com/channel/UCSmUdD2Dd_v5uqBuRwtEZug)
 * [Thinkerview](https://www.youtube.com/channel/UCQgWpmt02UtJkyO32HGUASQ)
 * [Startupfood](https://www.youtube.com/channel/UCYxgidQYV3WPD0eeVGOgibg)
