@@ -4,6 +4,7 @@ Tout d'abord, j'invite à lire cet excellent article [« La dette technique est 
 Tetris. Tout code possède de la dette technique. C'est parfaitement normal. Vous pouvez continuer à jouer
 à Tetris même avec quelques trous. »](https://damien.pobel.fr/post/dette-technique-partie-tetris/).
 
+Note : 
 
 ## Règles de bases
 
@@ -42,6 +43,8 @@ alors j'ai deux possibilités :
 Quand je tombe plusieurs fois sur quelque chose qui me fait perdre du temps, un élément de dette technique : mettre un 👍 et peut être un commentaire supplémentaire sur l'issue de cette dette technique.
 
 Quand je suis bloqué sur une issue, en attente d'information ou de review de code… alors c'est peut être le bon moment pour avancer un peu sur un ticket de bug ou de dette technique.
+
+Si un élément de dette technique ralenti fortement le développement, alors l'intégrer dans un sprint.
 
 ## Qu'est-ce qui n'est pas pour moi de la dette technique ?
 
