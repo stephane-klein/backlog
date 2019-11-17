@@ -1,4 +1,4 @@
-# Mes recommandations pour maitriser la dette technique au quotidien
+# Mes recommandations pour maîtriser la dette technique au quotidien
 
 Tout d'abord, j'invite à lire cet excellent article [« La dette technique est comme une partie de
 Tetris. Tout code possède de la dette technique. C'est parfaitement normal. Vous pouvez continuer à jouer
