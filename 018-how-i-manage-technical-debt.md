@@ -39,6 +39,9 @@ alors j'ai deux possibilités :
 1. si l'amélioration est rapide alors je l'exécute tout de suite dans une Merge Request
 2. ou alors je crée une Issue avec le label « Technical Debt » pour ne pas [tondre un Yak!](https://github.com/stephane-klein/personnal-notebook/blob/draft-how-i-manage-technical-debt/003-ne-tonds-pas-de-yaks.md)
 
+Quand je tombe plusieurs fois sur quelque chose qui me fait perdre du temps, un élément de dette technique : mettre un 👍 et peut être un commentaire supplémentaire sur l'issue de cette dette technique.
+
+Quand je suis bloqué sur une issue, en attente d'information ou de review de code… alors c'est peut être le bon moment pour avancer un peu sur un ticket de bug ou de dette technique.
 
 ## Qu'est-ce qui n'est pas pour moi de la dette technique ?
 
