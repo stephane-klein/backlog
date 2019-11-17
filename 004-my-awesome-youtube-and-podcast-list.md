@@ -34,6 +34,7 @@ Suivant le même principe, voici une sélection de PodCast et chaînes YouTube f
 * [Podcast Nomade Digital](https://www.youtube.com/channel/UCkw3PxoF9qG9y9QmShVLiFw)
 * [Histony](https://www.youtube.com/channel/UCt8ctlakIflnSG0ebFps7cw)
 * [Politeia](https://www.youtube.com/channel/UCPgBAjDYc9lDt0Aui7ITnDA)
+* [Politikon](https://www.youtube.com/channel/UC0HxyEc_ojRJ1oJXS5K6oaA)
 * [Nota Bene](https://www.youtube.com/channel/UCP46_MXP_WG_auH88FnfS1A)
 * [Michael - Traverser La Frontière](https://www.youtube.com/channel/UC2LDmB7Z2cR0JFB1VW4e-lA)
 * [Nexus VI](https://www.youtube.com/channel/UC8-UThnwzBI5ApzVG4MY7VQ/videos) - Chronique spécialisée dans la Science-Fiction sous toutes ses formes (Cinéma, Littérature, Jeux Vidéo, Animés) !
