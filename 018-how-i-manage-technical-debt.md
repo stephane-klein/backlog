@@ -23,3 +23,12 @@ alors j'ai deux possibilités :
 
 1. si l'amélioration est rapide alors je l'exécute tout de suite dans une Merge Request
 2. ou alors je crée une Issue avec le label « Technical Debt » pour ne pas [tondre un Yak!](https://github.com/stephane-klein/personnal-notebook/blob/draft-how-i-manage-technical-debt/003-ne-tonds-pas-de-yaks.md)
+
+## Qu'est-ce qui n'est pas pour moi de la dette technique ?
+
+Je ne considère pas être de la dette technique les éléments suivants :
+
+- le choix du langage de programmation
+- le choix du framework
+- un choix d'architecture
+- des bugs
