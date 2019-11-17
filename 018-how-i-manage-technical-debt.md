@@ -32,3 +32,11 @@ Je ne considère pas être de la dette technique les éléments suivants :
 - le choix du framework
 - un choix d'architecture
 - des bugs
+
+## Qu'est-ce que je considère être de la dette technique ?
+
+Tout ce qui m'empêche de travailler correctement sur un projet, par exemple :
+
+- je n'arrive pas à installer l'environnement de developement du projet de manière autonome
+- je n'arrive pas à utiliser (« jouer avec ») le projet localement
+- je n'arrive pas à tester (manuellement ou non) une fonctionnalité du projet en dehors de son environnement de production
