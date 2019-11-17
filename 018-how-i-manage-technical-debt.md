@@ -14,7 +14,8 @@ Au quotidien, quand j'interviens sur un projet et que :
 
 - je vois quelque chose d'améliorable
 - je vois quelque chose difficile à comprendre
-- je vois du code inconsistent avec le reste du projet 
+- je vois du code inconsistent avec le reste du projet
+- j'ai beaucoup de difficulté à réaliser une tâche à cause de l'architecture actuelle du projet
 
 alors j'ai deux possibilités :
 
