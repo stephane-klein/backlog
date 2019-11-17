@@ -4,6 +4,8 @@ Tout d'abord, j'invite à lire cet excellent article [« La dette technique est 
 Tetris. Tout code possède de la dette technique. C'est parfaitement normal. Vous pouvez continuer à jouer
 à Tetris même avec quelques trous. »](https://damien.pobel.fr/post/dette-technique-partie-tetris/).
 
+## Règles de bases
+
 Voici les règles que je suis pour garder la maitrise de mes projets :
 
 - je dois toujours pouvoir installer localement un projet (quand un projet dépend d'infrastructures difficiles ou impossibler à installer, j'essaie de créer [des composants qui simulent ces dépendances](https://en.wikipedia.org/wiki/Mock_object))
@@ -11,6 +13,8 @@ Voici les règles que je suis pour garder la maitrise de mes projets :
 - je dois pouvoir à tout moment déployer from scratch un projet 
 - je dois toujours pouvoir tester localement un projet
 - je dois faire des efforts pour avoir des données pour les tests ([fixture](https://en.wikipedia.org/wiki/Test_fixture#Software)...) et/ou de démo (sample data)
+
+## Au quotidien
 
 Au quotidien, quand j'interviens sur un projet et que :
 
