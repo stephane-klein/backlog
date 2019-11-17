@@ -17,7 +17,7 @@ Voici les règles que je suis pour garder la maitrise de mes projets :
     - faire des efforts pour avoir des données pour les tests ([fixture](https://en.wikipedia.org/wiki/Test_fixture#Software)...) et/ou de démo (sample data)
 - **tout développeur (autorisé) doit pouvoir à tout moment déployer le projet (from scratch et de manière incrémentale).**<br />
   Comment ?
-    - documenter la procédure de déploiment, faire tester par plusieurs personnes
+    - documenter la procédure de déploiement, faire tester par plusieurs personnes
     - utiliser un outil d'[Infrastructure as Code](https://fr.wikipedia.org/wiki/Infrastructure_as_Code)
     - utiliser un outil de migration de modèle de données (SQL…)
 - **tout développeur doit toujours pouvoir tester localement un projet (manuellement ou automatiquement).**<br />
