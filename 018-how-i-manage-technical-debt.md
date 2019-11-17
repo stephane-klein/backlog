@@ -11,14 +11,17 @@ Voici les règles que je suis pour garder la maitrise de mes projets :
 
 - **tout développeuur doit à tout moment pouvoir installer, exécuter et utiliser localement un projet.**<br/>
   Comment ?
+    - documenter les instructions d'installation et d'exécution, faire tester par plusieurs personnes
     - quand un projet dépend d'infrastructures difficiles ou impossibler à installer, essayer de créer [des composants qui simulent ces dépendances](https://en.wikipedia.org/wiki/Mock_object)
     - faire des efforts pour avoir des données pour les tests ([fixture](https://en.wikipedia.org/wiki/Test_fixture#Software)...) et/ou de démo (sample data)
 - **tout développeur (autorisé) doit pouvoir à tout moment déployer le projet (from scratch et de manière incrémentale).**<br />
   Comment ?
+    - documenter la procédure de déploiment, faire tester par plusieurs personnes
     - utiliser un outil d'[Infrastructure as Code](https://fr.wikipedia.org/wiki/Infrastructure_as_Code)
     - utiliser un outil de migration de modèle de données (SQL…)
 - **tout développeur doit toujours pouvoir tester localement un projet (manuellement ou automatiquement).**<br />
   Comment ?
+    - documenter les instructions de test, faire tester par plusieurs personnes
     - mettre à disposition des [fixture](https://en.wikipedia.org/wiki/Test_fixture#Software) et/ou des données de démo (sample data)
 
 
