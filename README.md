@@ -21,6 +21,7 @@ Articles:
 * [Utiliser Google Slide et YouTube pour faire des Weekly Product et Tech itérativement](015-utiliser-google-slide-et-youtube-pour-faire-de-weekly-product-et-tech.md) (French)
 * [Comment j'utilise Storybook pour créer des apps React ou des Sites statiques](016-comment-j-utilise-storybook-pour-creer-des-apps-react-ou-sites-statiques.md) (French)
 * [Mon Équpement Laptop...](017-equipement.md) (French)
+* [Mes recommandations pour maitriser la dette technique au quotidien](018-how-i-manage-technical-debt.md) (French)
 
 Lists:
 
