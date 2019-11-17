@@ -8,10 +8,10 @@ Tetris. Tout code possède de la dette technique. C'est parfaitement normal. Vou
 
 Voici les règles que je suis pour garder la maitrise de mes projets :
 
-- je dois toujours pouvoir installer localement un projet (quand un projet dépend d'infrastructures difficiles ou impossibler à installer, j'essaie de créer [des composants qui simulent ces dépendances](https://en.wikipedia.org/wiki/Mock_object))
-- je dois pouvoir à tout moment déployer le projet
-- je dois pouvoir à tout moment déployer from scratch un projet 
-- je dois toujours pouvoir tester localement un projet
+- tout développeuur doit toujours pouvoir installer localement un projet (quand un projet dépend d'infrastructures difficiles ou impossibler à installer, essayer de créer [des composants qui simulent ces dépendances](https://en.wikipedia.org/wiki/Mock_object))
+- tout développeur (autorisé) doit pouvoir à tout moment déployer le projet
+- tout développeur (autorisé) doit pouvoir à tout moment déployer from scratch un projet 
+- tout développeur doit toujours pouvoir tester localement un projet
 - je dois faire des efforts pour avoir des données pour les tests ([fixture](https://en.wikipedia.org/wiki/Test_fixture#Software)...) et/ou de démo (sample data)
 
 ## Au quotidien
