@@ -4,8 +4,6 @@ Tout d'abord, j'invite à lire cet excellent article [« La dette technique est 
 Tetris. Tout code possède de la dette technique. C'est parfaitement normal. Vous pouvez continuer à jouer
 à Tetris même avec quelques trous. »](https://damien.pobel.fr/post/dette-technique-partie-tetris/).
 
-Note : 
-
 ## Règles de bases
 
 Voici les règles que je suis pour garder la maitrise de mes projets :
