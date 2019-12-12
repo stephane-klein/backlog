@@ -36,6 +36,9 @@ Suivant le même principe, voici une sélection de PodCast et chaînes YouTube f
 * [Politeia](https://www.youtube.com/channel/UCPgBAjDYc9lDt0Aui7ITnDA)
 * [Politikon](https://www.youtube.com/channel/UC0HxyEc_ojRJ1oJXS5K6oaA)
 * [Nota Bene](https://www.youtube.com/channel/UCP46_MXP_WG_auH88FnfS1A)
+* [La Tronche en Biais](https://www.youtube.com/watch?v=4Fv56LRRctY) - La Tronche en Biais vous propose de découvrir les biais cognitifs qui tordent notre belle rationalité et nous conduisent à des erreurs prévisibles.<br />
+  À l’heure des fake news, des bulles de filtre et de la massification de l’information, savoir distinguer le vrai du faux devient une vraie compétence de haut vol, et cela nécessite de la méthode. Cette méthode de recherche systématique de l’erreur, d’humilité épistémique, c’est la science. La bonne nouvelle, c’est que c’est passionnant !<br />
+  La zététique est un logiciel antivirus pour l'esprit.
 * [Michael - Traverser La Frontière](https://www.youtube.com/channel/UC2LDmB7Z2cR0JFB1VW4e-lA)
 * [Nexus VI](https://www.youtube.com/channel/UC8-UThnwzBI5ApzVG4MY7VQ/videos) - Chronique spécialisée dans la Science-Fiction sous toutes ses formes (Cinéma, Littérature, Jeux Vidéo, Animés) !
 * [Thibault Neveu](https://www.youtube.com/channel/UCVso5UVvQeGAuwbksmA95iA/)
