@@ -51,3 +51,4 @@ Suivant le même principe, voici une sélection de PodCast et chaînes YouTube f
 * [e-penser](https://www.youtube.com/channel/UCcziTK2NKeWtWQ6kB5tmQ8Q)
 * [Nouvelle École](https://nouvelleecole.org/)
 * [Artisan Développeur](https://soundcloud.com/benoitgantaume)
+* [Angle Droit](https://www.youtube.com/channel/UC_KidpuCqhbvqZedgq2DPpA/videos)
