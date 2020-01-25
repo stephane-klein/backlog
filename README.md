@@ -25,5 +25,3 @@ Articles:
 Lists:
 
 * [My Awesome YouTube and Podcast List](004-my-awesome-youtube-and-podcast-list.md)
-* [Project ideas](006-project-ideas.md)
-* [Awesome list](awesome-list.md)
