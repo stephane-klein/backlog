@@ -1,5 +1,11 @@
 # Mes recommandations pour maîtriser la dette technique au quotidien
 
+## Avant propos
+
+Ce document est le résultat de mes divers expériences, il va sans doute évoluer, sera remis en cause dans les prochaines années.
+
+## Allégorie d'une partie de Tetris
+
 Tout d'abord, j'invite à lire cet excellent article [« La dette technique est comme une partie de
 Tetris. Tout code possède de la dette technique. C'est parfaitement normal. Vous pouvez continuer à jouer
 à Tetris même avec quelques trous. »](https://damien.pobel.fr/post/dette-technique-partie-tetris/).
