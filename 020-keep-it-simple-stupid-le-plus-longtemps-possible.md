@@ -67,8 +67,7 @@ chose qui m'aurait pris 30min sans framework, sans toutes les couches de magies.
 À cela s'ajoute en équipe, les heures et les heures de [trolls](https://fr.wikipedia.org/wiki/Troll_(Internet)) de choix de framework.<br />
 Chaque développeur a ses préférences, pour tel ou tel framework et tout cela est parfaitement argumentable, car ils ont tous des forces et faiblesses.
 
-C'est suite à cette expérience que je suis maintenant très sceptique quand je vois [React Admin](https://github.com/marmelab/react-admin), [Forest Admin](https://www.forestadmin.com/).<br />
-J'ai très peur de tomber dans un énorme [Yak!](https://github.com/stephane-klein/personnal-notebook/blob/master/003-ne-tonds-pas-de-yaks.md).
+C'est suite à cette expérience que j'ai très peur de bâtir une application sur des solutions comme [React Admin](https://github.com/marmelab/react-admin), [Forest Admin](https://www.forestadmin.com/) si je sais que je vais devoir les adatper (solutions qui peuvent être très bien pour faire un [POC](https://fr.wikipedia.org/wiki/Preuve_de_concept) ou un [MVP](https://fr.wikipedia.org/wiki/Produit_minimum_viable)), j'ai très peur de tomber dans un énorme [Yak!](https://github.com/stephane-klein/personnal-notebook/blob/master/003-ne-tonds-pas-de-yaks.md).
 
 #### Des personnes
 
