@@ -3,7 +3,7 @@
 Depuis quelques années, j'utilise les mots suivants pour décrire mon mindset de développement :
 
 > « Je suis au maximum le principe KISS ([Keep it simple, stupid](https://fr.wikipedia.org/wiki/Principe_KISS)), j'écris le code le plus direct possible
-> et quand j'ai trop de difficulté ou de frustation alors je refactor mon code et j'y ajoute le minimum de sophistication indispensable »
+> et quand j'ai trop de difficulté ou de frustration alors je refactor mon code et j'y ajoute le minimum de sophistication indispensable »
 
 <p align="center"> 
 <img src="https://camo.githubusercontent.com/0607e034aee88cce40b832367d44265e01b42654/68747470733a2f2f7777772e6f736e6577732e636f6d2f696d616765732f636f6d6963732f7774666d2e6a7067">
