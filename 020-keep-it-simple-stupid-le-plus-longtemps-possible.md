@@ -3,11 +3,13 @@
 Depuis quelques années, j'utilise les mots suivants pour décrire mon mindset de développement :
 
 > « Je suis au maximum le principe KISS ([Keep it simple, stupid](https://fr.wikipedia.org/wiki/Principe_KISS)), j'écris le code le plus direct possible
-> et quand j'ai trop de difficulté ou de frustration alors je refactor mon code et j'y ajoute le minimum de sophistication indispensable »
+> et quand j'ai trop de "douleur" alors je refactor mon code et j'y ajoute le minimum de sophistication indispensable »
 
 <p align="center"> 
 <img src="https://camo.githubusercontent.com/0607e034aee88cce40b832367d44265e01b42654/68747470733a2f2f7777772e6f736e6577732e636f6d2f696d616765732f636f6d6963732f7774666d2e6a7067">
 </p>
+
+Ici j'utilise le mot "douleur" dans le sens de ["a pain point"](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=pain%20point&sort=byPopularity&type=story) en anglais : quelque chose de casse-pieds, pénibilité, grosse difficulté...
 
 ## Partie 1 : la quête du code "parfait"
 
@@ -103,11 +105,11 @@ Depuis quelques années, j'essaie d'écrire un code le plus direct possible.
 
 Mon objectif : diminuer au maximum ma [charge cognitive](https://fr.wikipedia.org/wiki/Charge_cognitive).
 
-J'essaie d'ajouter, une librairie, un service ou une couche d'abstraction uniquement si c'est nécessaire fonctionnellement ou si j'ai beaucoup de frustration avec la solution actuelle.
+J'essaie d'ajouter, une librairie, un service ou une couche d'abstraction uniquement si c'est nécessaire fonctionnellement ou si j'ai beaucoup de "douleur" avec la solution actuelle.
 
 J'essaie de garder un code le plus flat possible ([The art of avoiding nested code](https://www.thepythoncorner.com/2017/12/the-art-of-avoiding-nested-code/), [Flat is better than nested](https://medium.com/@ankushchoubey/clean-code-1-flat-is-better-than-nested-leave-when-not-okay-c09ba74090ef), [Avoid Indirection in Code for human readability](http://matthewrocklin.com/blog/work/2019/06/23/avoid-indirection))
 
-J'essaie de découper mon code uniquement si j'ai des difficultés, trop de [frustration](https://camo.githubusercontent.com/0607e034aee88cce40b832367d44265e01b42654/68747470733a2f2f7777772e6f736e6577732e636f6d2f696d616765732f636f6d6963732f7774666d2e6a7067) ou si cela apporte de la valeur fonctionnel, exemple :
+J'essaie de découper mon code uniquement si j'ai trop de "douleur" ou si cela apporte de la valeur fonctionnelle, exemple :
 
 - je crée une fonction si j'ai besoin de la tester dans un test unitaire, ce qui fini par être le cas si j'ai trop de difficulté sur une section de code
 - je crée une fonction pour éviter de la duplication en suivant la règle [« Rule of three »](https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming))
