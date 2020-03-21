@@ -9,3 +9,5 @@
 - [Étiquettes Bépo pour clavier](https://beaujoie.com/boutique/01183/)
 - [Apple Magic Trackpad 2](https://www.amazon.fr/Apple-MJ2R2Z-A-Magic-Trackpad/dp/B016MUBL4U/)
 - [Clavier Typematrix Bépo](http://typematrix.com/bepo/)
+
+Ma préférence actuelle concernant le dual screen : [Thread Twitter](https://twitter.com/klein_stephane/status/1241311909250555911).
