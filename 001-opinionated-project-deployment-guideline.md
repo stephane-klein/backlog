@@ -22,9 +22,8 @@ This is my opinionated guideline to deploy one application:
   * Use [DnsControl](https://stackexchange.github.io/dnscontrol/), [Terraform Provider](https://www.terraform.io/docs/providers/index.html) or [Ansible Cloud Modules](http://docs.ansible.com/ansible/latest/list_of_cloud_modules.html) to manage your DNS Configuration
   * Don't store uncrypted secrets in Git, use [Pass](https://www.passwordstore.org/) or better, install and use [HashiCorp Vault](https://www.vaultproject.io/)
 * Backup your application data:
-  * If your application use PostgreSQL database, configure [Continuous Archiving system for Postgres](https://github.com/wal-e/wal-e)
-  * If your application store data on filesystem, you can use [BorgBackup](https://github.com/borgbackup/borg/) to backup your files.
-  If you can refactor your application, I suggest you to don't save data directly on file system but use [Object storage system](https://en.wikipedia.org/wiki/Object_storage) like [Minio](https://www.minio.io/), [S3](https://en.wikipedia.org/wiki/Amazon_S3)...
+  * If your application use PostgreSQL database, configure [25.3. Continuous Archiving and Point-in-Time Recovery (PITR)](https://www.postgresql.org/docs/12/continuous-archiving.html#BACKUP-PITR-RECOVERY) (see [POC wal-g - Archival and Restoration for Postgres](https://github.com/stephane-klein/poc-postgresql-walg))
+  * If your application store data on filesystem, you can use [Restic](https://restic.readthedocs.io/) to backup your files (see [POC Restic with Docker](https://github.com/stephane-klein/poc-restic-with-docker))
 * [Sentry](https://docs.sentry.io/) up with your application to track errors
 * Docker log to centralized logging system. I suggest [Fluentd](http://fluentd.org/)/[Fluentbit](http://fluentbit.io/documentation/current/) ❤️ + [Loki](https://grafana.com/loki) ❤️ + [Grafana](https://grafana.com/loki) ❤️
 * Monitor your servers, I suggest this stack [Prometheus](https://prometheus.io/) ❤️ + [Node exporter](https://github.com/prometheus/node_exporter) ❤️ + [Grafana](https://grafana.com/) ❤️ + [alertmanager](https://prometheus.io/docs/alerting/alertmanager/) ❤️
