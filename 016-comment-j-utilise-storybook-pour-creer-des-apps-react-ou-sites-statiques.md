@@ -20,7 +20,7 @@ Je l'utilise pour développer :
 L'utilisation de Storybook permet au développeur :
 
 - au niveau des pages :
-  - d'avoir une aperçu rapide et exhaustive de toutes les pages du projet
+  - d'avoir un aperçu rapide et exhaustif de toutes les pages du projet
   - d'accéder directement aux pages sans avoir à se connecter à un compte utiliseur
   - d'accéder aux pages sans avoir besoin de lancer un service backend
   - de créer des pages qui ne sont pas encore activées dans l'application
