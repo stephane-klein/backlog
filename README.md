@@ -2,7 +2,7 @@
 
 This is my public personnal notebook ([about me](http://stephane-klein.info/)).
 
-Articles:
+## Articles
 
 * [My opinionated project deployment guideline](001-opinionated-project-deployment-guideline.md)
 * [My opinionated microservice deployment guideline](002-opinionated-microservice-deployment-guideline.md)
@@ -24,6 +24,14 @@ Articles:
 * [Awesome Software Engineering comments](019-awesome-software-engineering-comments.md) (English)
 * [Keep it simple, stupid le plus longtemps possible](020-keep-it-simple-stupid-le-plus-longtemps-possible.md) (French)
 
-Lists:
+## Job Families templates
+
+Ressources and inspirations: [Job Families at GitLab.com](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/job-families)
+
+- Team Engineering:
+    - [Chief technology officer (CTO)](job-families/cto.fr.md) (French)
+    - [VP Engineering](job-families/vp-engineering.fr.md)  (French)
+
+## Lists
 
 * [My Awesome YouTube and Podcast List](004-my-awesome-youtube-and-podcast-list.md)
