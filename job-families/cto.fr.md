@@ -8,7 +8,7 @@ Quand le département Tech est petit, le rôle de CTO et VP Engineering peut êt
 
 ## Responsabilités / rôles
 
-- Il est responsable de l'exploration des solutions techniques (issues ~"type::spike" ~POC ) (il effectue cette exploration lui-même ou la sous traite)
+- Il est responsable de l'exploration des solutions techniques (les issues de type [spike](https://en.wikipedia.org/wiki/Spike_(software_development)) ou de création de [POC](https://en.wikipedia.org/wiki/Proof_of_concept)) (il effectue cette exploration lui-même ou la sous traite)
 - Il aide le VP Engineering à définir la roadmap technique
 - Il a un droit de véto sur tous les choix techniques
 - Il est garant [de la maitrise de la dette technique](https://github.com/stephane-klein/personnal-notebook/blob/master/018-how-i-manage-technical-debt.md)
