@@ -23,6 +23,10 @@ Suivant le même principe, voici une sélection de PodCast et chaînes YouTube f
     * [Fonctionnement des centrales nucléaires (canicule, tritium, durée de vie...) - ÉNERGIE#11](https://www.youtube.com/watch?v=HMystmGbctw)
     * [De la centrale aux déchets radioactifs - DÉCHETS RADIOACTIFS #1](https://www.youtube.com/watch?v=p0zX8eUW_jQ)
 * [ScienceEtonnante](https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA)
+* Espace :
+  * [Hugo Lisoir](https://www.youtube.com/channel/UCDC6DBi0kRp6Jk21xqfvFLA/videos)
+  * [Stardust - La Chaîne Air & Espace](https://www.youtube.com/channel/UCdL3UpiseRlvxXuORJjmqZw/videos)
+  * [AstronoGeek](https://www.youtube.com/channel/UC5X4e8ScZI2AFd_vkjSoyoQ/videos)
 * [Autodisciples](https://www.youtube.com/channel/UCDMxcev7u9Nf7KMJuyIm-BA)
 * [DirtyBiology](https://www.youtube.com/channel/UCtqICqGbPSbTN09K1_7VZ3Q)
 * [Hygiène Mentale](https://www.youtube.com/channel/UCMFcMhePnH4onVHt2-ItPZw)
