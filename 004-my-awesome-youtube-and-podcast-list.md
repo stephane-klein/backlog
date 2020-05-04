@@ -33,6 +33,7 @@ Suivant le même principe, voici une sélection de PodCast et chaînes YouTube f
   * [Puissance (preuve de l'absence) - Médifact #13](https://www.youtube.com/watch?v=cHWHPFPj3vg)
   * [Glyphosate & Cancer - Médifact #14](https://www.youtube.com/watch?v=P8OcEwKtKZk)
 * [Hygiène Mentale](https://www.youtube.com/channel/UCMFcMhePnH4onVHt2-ItPZw)
+* [Chat Sceptique](https://www.youtube.com/channel/UCOuIgj0CYCXCvjWywjDbauw)
 * [Linguisticae](https://www.youtube.com/channel/UCofQxJWd4qkqc7ZgaLkZfcw)
 * [Scrum Life](https://www.youtube.com/channel/UCMCnZGIOeLVO65-LBxkkHyQ)
 * [Marketing Mania](https://www.youtube.com/channel/UCSmUdD2Dd_v5uqBuRwtEZug)
