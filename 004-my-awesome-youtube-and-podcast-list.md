@@ -34,6 +34,7 @@ Suivant le même principe, voici une sélection de PodCast et chaînes YouTube f
   * [Glyphosate & Cancer - Médifact #14](https://www.youtube.com/watch?v=P8OcEwKtKZk)
 * [Hygiène Mentale](https://www.youtube.com/channel/UCMFcMhePnH4onVHt2-ItPZw)
 * [Chat Sceptique](https://www.youtube.com/channel/UCOuIgj0CYCXCvjWywjDbauw)
+  * [Comment débloquer un débat (et en devenir le héros !)](https://www.youtube.com/watch?v=Ns1zx10kTKU)
 * [La statistique expliquée à mon chat](https://www.youtube.com/channel/UCWty1tzwZW_ZNSp5GVGteaA/featured)
 * [Linguisticae](https://www.youtube.com/channel/UCofQxJWd4qkqc7ZgaLkZfcw)
 * [Scrum Life](https://www.youtube.com/channel/UCMCnZGIOeLVO65-LBxkkHyQ)
