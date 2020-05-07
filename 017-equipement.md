@@ -10,5 +10,6 @@
 - [Apple Magic Trackpad 2](https://www.amazon.fr/Apple-MJ2R2Z-A-Magic-Trackpad/dp/B016MUBL4U/)
 - [Clavier Typematrix Bépo](http://typematrix.com/bepo/)
 - [Écran Dell 24 Ultra HD 4K : P2415Q](https://www.dell.com/fr-fr/shop/%C3%A9cran-dell-24-ultra-hd-4k-p2415q/apd/210-adyv/moniteurs-et-accessoires-de-moniteur)
+- WebCam [Logitech C922](https://www.logitech.fr/fr-fr/product/c922-pro-stream-webcam)
 
 Ma préférence actuelle concernant le dual screen : [Thread Twitter](https://twitter.com/klein_stephane/status/1241311909250555911).
