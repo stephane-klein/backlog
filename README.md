@@ -23,6 +23,7 @@ This is my public personnal notebook ([about me](http://stephane-klein.info/)).
 * [Mes recommandations pour maitriser la dette technique au quotidien](018-how-i-manage-technical-debt.md) (French)
 * [Awesome Software Engineering comments](019-awesome-software-engineering-comments.md) (English)
 * [Keep it simple, stupid le plus longtemps possible](020-keep-it-simple-stupid-le-plus-longtemps-possible.md) (French)
+* [Mon rapport au télétravail (remote jobs)](021-remote-work.md)
 
 ## Job Families templates
 
