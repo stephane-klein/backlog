@@ -25,6 +25,7 @@ Quand le département Tech est petit, le rôle de VP Engineering et CTO peut êt
 - Crée l'issue d'onboarding des nouveaux membres de l'équipe Engineering
 - Crée et améliore les fiches de postes
 - Crée et améliore les annonces d'emploi
+- Crée les dashboards d'analyse de vélocité des Sprints Scrum
 
 ## Ressources
 
