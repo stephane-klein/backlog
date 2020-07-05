@@ -129,3 +129,4 @@ J'essaie de découper mon code uniquement si j'ai trop de "douleur" ou si cela a
 - [Separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
 - [Single source of truth](https://en.wikipedia.org/wiki/Single_source_of_truth)
 - [On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/)
+- [Duplication is far cheaper than the wrong abstraction](https://news.ycombinator.com/item?id=23739596)
