@@ -68,3 +68,5 @@ Suivant le même principe, voici une sélection de PodCast et chaînes YouTube f
 * [Artisan Développeur](https://soundcloud.com/benoitgantaume)
 * [Angle Droit](https://www.youtube.com/channel/UC_KidpuCqhbvqZedgq2DPpA/videos)
 * [Fouloscopie](https://www.youtube.com/channel/UCLXDNUOO3EQ80VmD9nQBHPg) - La science du comportement des foules : paniques, mouvement de foule, propagation de rumeurs, réseaux sociaux, intelligence collective... 
+* [Paroles de Tech Leaders](https://www.tech.rocks/les-podcasts)
+* [If This Then Dev](https://ifttd.io/)
