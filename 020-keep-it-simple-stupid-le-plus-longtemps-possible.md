@@ -107,7 +107,7 @@ Mon objectif : diminuer au maximum ma [charge cognitive](https://fr.wikipedia.or
 
 J'essaie d'ajouter, une librairie, un service ou une couche d'abstraction uniquement si c'est nécessaire fonctionnellement ou si j'ai beaucoup de "douleur" avec la solution actuelle.
 
-J'essaie de garder un code le plus flat possible ([The art of avoiding nested code](https://www.thepythoncorner.com/2017/12/the-art-of-avoiding-nested-code/), [Flat is better than nested](https://medium.com/@ankushchoubey/clean-code-1-flat-is-better-than-nested-leave-when-not-okay-c09ba74090ef), [Avoid Indirection in Code for human readability](http://matthewrocklin.com/blog/work/2019/06/23/avoid-indirection))
+J'essaie de garder un code le plus flat possible ([The art of avoiding nested code](https://www.thepythoncorner.com/2017/12/the-art-of-avoiding-nested-code/), [Flat is better than nested](https://medium.com/@ankushchoubey/clean-code-1-flat-is-better-than-nested-leave-when-not-okay-c09ba74090ef), [Avoid Indirection in Code for human readability](http://matthewrocklin.com/blog/work/2019/06/23/avoid-indirection), [Prefer inline event handler to avoid indirection in code to improve human readability or use handler function?](https://stackoverflow.com/questions/63284821/prefer-inline-event-handler-to-avoid-indirection-in-code-to-improve-human-readab))
 
 J'essaie de découper mon code uniquement si j'ai trop de "douleur" ou si cela apporte de la valeur fonctionnelle, exemple :
 
